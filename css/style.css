@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Catamaran:100,300,400,500,600,700,800,900');
+
+body{
+	font-family: 'Catamaran', sans-serif;
+	color: #333;
+	font-size: 14px;
+}
+
+#sec-rs{
+	background-color: #555;
+	color: #fff;
+	padding: 10px 0px;
+}
+#sec-rs .fab{
+	color: #fff;
+}
+#sec-rs .fab:hover{
+	color: #333;
+}
+
+.rice {
+	color: #EB4D19
+}
+#sec-bean{
+	background-image: url(../img/bg-hero.jpg);
+	background-repeat: no repeat;
+	background-position: center;
+	background-size: cover;
+}
+#sec-bean h1{
+	color: #E96A57
+}
+
+#sec-rock{
+	padding: 10px 0px;
+}
+.circulo{
+	color: #fff;
+	border-radius: 100%;
+	width: 70px;
+	height: 70px;
+	line-height: 80px;
+	text-align: center;
+	background-color: #000;
+	font-size: 40px;
+}
